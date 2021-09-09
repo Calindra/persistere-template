@@ -1,0 +1,6 @@
+node_modules
+.idea
+folder.hash
+.DS_Store
+/cookie.json
+/miniApp.zip
